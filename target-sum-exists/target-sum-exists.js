@@ -24,9 +24,3 @@ module.exports = {
   targetSumExistsInTwoNumbers,
   targetSumExistsInThreeNumbers
 };
-
-
-module.exports = {
-  targetSumExistsInTwoNumbers,
-  targetSumExistsInThreeNumbers
-};
