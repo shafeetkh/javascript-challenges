@@ -1,4 +1,4 @@
-const parensAreBalanced = input => {
+function parensAreBalanced(input) {
 
   const openers = ['(', '{', '['];
   const closers = [')', '}', ']'];
